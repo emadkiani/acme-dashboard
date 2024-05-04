@@ -4,7 +4,7 @@
 
 <img src="./public/screenshot.png">
 
-Invoice dashboard built with Next.js and TypeScript. Auth.js for Authentication.
+Invoices dashboard built with Next.js and TypeScript. Auth.js for Authentication.
 
 <!-- toc -->
 
