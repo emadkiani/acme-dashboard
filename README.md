@@ -20,14 +20,14 @@ Invoice dashboard built with Next.js and TypeScript. Auth.js for Authentication.
 ## Features
 
 - User authentication
-- Dashboard page to manage invoices & customers
+- Dashboard to manage invoices & customers
 - Search & Pagination
-- CRUD (create, read, update, delete) invoices
+- CRUD (create, read, update, delete) functionality for invoices
 
 ## Usage
 
 - You should have Node.js installed [Node.js](https://nodejs.org/)
-- Vercel to deploy and SQL database [Vercel](https://www.vercel.com/)
+- To deploy on Vercel and setup SQL database [Vercel](https://www.vercel.com/)
 
 ### Env Variables
 
